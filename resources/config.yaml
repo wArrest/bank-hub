@@ -1,0 +1,26 @@
+pingan_paop_client:
+  public_url: ''
+  app_id: ''
+  key_path: ''
+  public_key_path: ''
+  client_password: ''
+  type: ''
+
+//平安相关配置
+pingan_server:
+  url: ''
+  key_path: ''
+  public_key_path: ''
+  client_password: ''
+  fix_param:
+    application_id: ''
+    txn_time: ''
+    valid_term: ''
+
+//建行相关配置文件
+ccb:
+  url: ''
+  des_key: ''
+  md5_key: ''
+  third_sys_id: ''
+
